@@ -1,0 +1,167 @@
+2019-06-07 11:30:32.480 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 11:30:32.486 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 11:30:32.488 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 11:30:32.491 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 11:30:32.492 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 11:30:32.492 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 11:30:32.498 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 11:30:32.500 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 11:30:32.500 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 13:40:58.197 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 13:40:58.198 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 13:40:58.199 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 13:40:58.200 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 13:40:58.200 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 13:40:58.201 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 13:42:05.001 [warning] <0.9786.1> lager_error_logger_h dropped 10 messages in the last second that exceeded the limit of 50 messages/sec
+2019-06-07 13:44:11.000 [warning] <0.9786.1> lager_error_logger_h dropped 6 messages in the last second that exceeded the limit of 50 messages/sec
+2019-06-07 13:47:10.438 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 13:47:10.443 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 13:47:10.445 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 13:47:10.448 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 13:47:10.449 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 13:47:10.449 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 13:47:10.455 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 13:47:10.457 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 13:47:10.457 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 13:50:14.542 [error] emulator Error in process <0.11670.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 12},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:50:33.236 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 13:50:33.240 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 13:50:33.242 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 13:50:33.245 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 13:50:33.246 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 13:50:33.246 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 13:50:33.251 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 13:50:33.254 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 13:50:33.254 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 13:51:05.565 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 13:51:05.570 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 13:51:05.571 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 13:51:05.574 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 13:51:05.575 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 13:51:05.576 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 13:51:05.580 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 13:51:05.582 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 13:51:05.582 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 13:59:07.561 [error] emulator Error in process <0.12631.1> with exit value:
+{{badmatch,{defmodule,[{line,0},{column,1}],nil}},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',extract_module,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,51}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols','-list_symbols/1-fun-0-',2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,43}]},{'Elixir.Macro',traverse,4,[{file,"lib/macro.ex"},{line,247}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,42}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:59:07.917 [error] emulator Error in process <0.12633.1> with exit value:
+{{badmatch,{defmodule,[{line,0},{column,1}],nil}},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',extract_module,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,51}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols','-list_symbols/1-fun-0-',2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,43}]},{'Elixir.Macro',traverse,4,[{file,"lib/macro.ex"},{line,247}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,42}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:59:10.575 [error] emulator Error in process <0.12639.1> with exit value:
+{{badmatch,{defmodule,[{line,0},{column,1}],[{'__aliases__',[{line,0},{column,11}],['Send']}]}},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',extract_module,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,51}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols','-list_symbols/1-fun-0-',2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,43}]},{'Elixir.Macro',traverse,4,[{file,"lib/macro.ex"},{line,247}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,42}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:59:12.327 [error] emulator Error in process <0.12642.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 0},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:59:30.487 [error] emulator Error in process <0.12667.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.SyntaxError',description => <<"unexpected token: \":\" (column 6, codepoint U+003A)">>,file => <<"nofile">>,line => 2},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:59:35.264 [error] emulator Error in process <0.12684.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.SyntaxError',description => <<"syntax error before: 'end'">>,file => <<"nofile">>,line => 3},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:59:37.417 [error] emulator Error in process <0.12694.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 4},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:59:42.946 [error] emulator Error in process <0.12704.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 4},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:59:48.539 [error] emulator Error in process <0.12715.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.SyntaxError',description => <<"unexpected token: \":\" (column 6, codepoint U+003A)">>,file => <<"nofile">>,line => 3},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 13:59:58.758 [error] emulator Error in process <0.12738.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.SyntaxError',description => <<"syntax error before: 'end'">>,file => <<"nofile">>,line => 4},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:00:03.565 [error] emulator Error in process <0.12750.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 5},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:00:39.135 [error] emulator Error in process <0.12781.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 6},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:00:43.560 [error] emulator Error in process <0.12790.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 6},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:00:53.307 [error] emulator Error in process <0.12805.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.SyntaxError',description => <<"syntax error before: ')'">>,file => <<"nofile">>,line => 4},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:01:00.199 [error] emulator Error in process <0.12820.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 7},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:01:04.759 [error] emulator Error in process <0.12829.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 7},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:01:15.984 [error] emulator Error in process <0.12842.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.SyntaxError',description => <<"syntax error before: ')'">>,file => <<"nofile">>,line => 5},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:01:20.278 [error] emulator Error in process <0.12846.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.SyntaxError',description => <<"syntax error before: ')'">>,file => <<"nofile">>,line => 5},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:01:37.117 [error] emulator Error in process <0.12852.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.SyntaxError',description => <<"syntax error before: ')'">>,file => <<"nofile">>,line => 5},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:02:43.451 [error] emulator Error in process <0.12947.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 10},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:02:49.754 [error] emulator Error in process <0.12957.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.TokenMissingError',description => <<"missing terminator: end (for \"do\" starting at line 0)">>,file => <<"nofile">>,line => 10},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:05:06.744 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 14:05:06.749 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 14:05:06.750 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 14:05:06.753 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 14:05:06.754 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 14:05:06.755 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 14:05:06.759 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 14:05:06.761 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 14:05:06.761 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 14:10:04.952 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 14:10:04.958 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 14:10:04.959 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 14:10:04.963 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 14:10:04.964 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 14:10:04.964 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 14:10:04.971 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 14:10:04.973 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 14:10:04.973 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 14:11:07.649 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 14:11:07.654 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 14:11:07.656 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 14:11:07.664 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 14:11:07.671 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 14:11:07.671 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 14:11:07.678 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 14:11:07.684 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 14:11:07.684 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 14:11:19.910 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 14:11:19.914 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 14:11:19.916 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 14:11:19.920 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 14:11:19.921 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 14:11:19.921 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 14:11:19.926 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 14:11:19.928 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 14:11:19.928 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 14:49:41.228 [error] emulator Error in process <0.15007.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.SyntaxError',description => <<"unexpected token: \"`\" (column 14, codepoint U+0060)">>,file => <<"nofile">>,line => 1},[{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',list_symbols,1,[{file,"lib/language_server/providers/document_symbols.ex"},{line,41}]},{'Elixir.ElixirLS.LanguageServer.Providers.DocumentSymbols',symbols,2,[{file,"lib/language_server/providers/document_symbols.ex"},{line,35}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:49:55.854 [error] emulator Error in process <0.15016.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Function definition has moved since suggestion was generated. Try again after file has been recompiled.">>},[{'Elixir.ElixirLS.LanguageServer.Providers.ExecuteCommand',execute,3,[{file,"lib/language_server/providers/execute_command.ex"},{line,37}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:49:57.878 [error] emulator Error in process <0.15018.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Function definition has moved since suggestion was generated. Try again after file has been recompiled.">>},[{'Elixir.ElixirLS.LanguageServer.Providers.ExecuteCommand',execute,3,[{file,"lib/language_server/providers/execute_command.ex"},{line,37}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:49:58.102 [error] emulator Error in process <0.15019.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Function definition has moved since suggestion was generated. Try again after file has been recompiled.">>},[{'Elixir.ElixirLS.LanguageServer.Providers.ExecuteCommand',execute,3,[{file,"lib/language_server/providers/execute_command.ex"},{line,37}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:49:58.703 [error] emulator Error in process <0.15020.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Function definition has moved since suggestion was generated. Try again after file has been recompiled.">>},[{'Elixir.ElixirLS.LanguageServer.Providers.ExecuteCommand',execute,3,[{file,"lib/language_server/providers/execute_command.ex"},{line,37}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:50:00.598 [error] emulator Error in process <0.15023.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Function definition has moved since suggestion was generated. Try again after file has been recompiled.">>},[{'Elixir.ElixirLS.LanguageServer.Providers.ExecuteCommand',execute,3,[{file,"lib/language_server/providers/execute_command.ex"},{line,37}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:50:00.846 [error] emulator Error in process <0.15024.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Function definition has moved since suggestion was generated. Try again after file has been recompiled.">>},[{'Elixir.ElixirLS.LanguageServer.Providers.ExecuteCommand',execute,3,[{file,"lib/language_server/providers/execute_command.ex"},{line,37}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:50:01.053 [error] emulator Error in process <0.15025.1> with exit value:
+{#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Function definition has moved since suggestion was generated. Try again after file has been recompiled.">>},[{'Elixir.ElixirLS.LanguageServer.Providers.ExecuteCommand',execute,3,[{file,"lib/language_server/providers/execute_command.ex"},{line,37}]},{'Elixir.ElixirLS.LanguageServer.Server','-handle_request_async/2-fun-0-',3,[{file,"lib/language_server/server.ex"},{line,425}]}]}
+2019-06-07 14:53:42.124 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 14:53:42.128 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 14:53:42.130 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 14:53:42.133 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 14:53:42.134 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 14:53:42.134 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 14:53:42.139 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 14:53:42.142 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 14:53:42.142 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 15:03:08.042 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 15:03:08.047 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 15:03:08.049 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 15:03:08.053 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 15:03:08.055 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 15:03:08.055 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 15:03:08.060 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 15:03:08.062 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 15:03:08.062 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
+2019-06-07 15:05:00.557 [info] <0.43.0> Application lager started on node nonode@nohost
+2019-06-07 15:05:00.562 [info] <0.43.0> Application xmerl started on node nonode@nohost
+2019-06-07 15:05:00.564 [info] <0.43.0> Application jsx started on node nonode@nohost
+2019-06-07 15:05:00.568 [info] <0.43.0> Application ranch started on node nonode@nohost
+2019-06-07 15:05:00.569 [info] <0.43.0> Application recon started on node nonode@nohost
+2019-06-07 15:05:00.569 [info] <0.43.0> Application rabbit_common started on node nonode@nohost
+2019-06-07 15:05:00.575 [info] <0.43.0> Application amqp_client started on node nonode@nohost
+2019-06-07 15:05:00.578 [info] <0.43.0> Application amqp started on node nonode@nohost
+2019-06-07 15:05:00.578 [info] <0.43.0> Application rabbitmq_tutorials started on node nonode@nohost
